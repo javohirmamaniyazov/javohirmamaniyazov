@@ -55,3 +55,5 @@
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
     </a>
 </div>
+
+![snake gif](https://github.com/javohirmamaniyazov/javohirmamaniyazov/blob/output/github-contribution-grid-snake.gif)
