@@ -16,8 +16,14 @@
 <div align="center">
     <h3>Connect with me:</h3>
     <a href="https://discord.gg/javohir#2653" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord"                     height="30" width="40">
     </a>
+   <a href="https://linkedin.com/in/https://www.linkedin.com/in/javohir-mamaniyazov-a12669269/" target="_blank" rel="noopener noreferrer">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedn"                height="30" width="40" /></a>
+   <a href="/https://web.telegram.org/k/#@javohir1706" target="_blank" rel="noopener noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="telegram" height="30"               width="30" /></a>
+   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="telegram" height="30" width="30" /></a>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
