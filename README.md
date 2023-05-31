@@ -41,7 +41,7 @@
 <div align="start" style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javohirmamaniyazov&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="max-width:260px; height: 123px; margin: 0;">
     <img src="https://github-readme-stats.vercel.app/api?username=javohirmamaniyazov&show_icons=true&locale=en" alt="GitHub Stats" style="width: 290px; height:125px; margin: 0; " > 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=javohirmamaniyazov" alt="GitHub Streak" style="width: 290px; height: 135px; margin: 0; ">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=javohirmamaniyazov" alt="GitHub Streak" style="width: 290px; height: 140px; margin: 0; ">
 </div>
 
 <div align="center">
