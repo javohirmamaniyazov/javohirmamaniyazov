@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="40" width="40">
 </p>
 
-<div align="center" style="display: flex;">
+<div align="start" style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javohirmamaniyazov&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="max-width:200px; height: 130px; margin: 0;">
     <img src="https://github-readme-stats.vercel.app/api?username=javohirmamaniyazov&show_icons=true&locale=en" alt="GitHub Stats" style="width: 330px; height:130px; margin: 0; " > 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=javohirmamaniyazov" alt="GitHub Streak" style="width: 330px; height: 130px; margin: 0; ">
