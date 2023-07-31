@@ -26,11 +26,12 @@
       <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="telegram" height="30" width="30" /></a>
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Tools:</h3>
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="40" width="40">
    <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="AWS Amplify" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" width="40">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Git" height="40" width="40">
 </p>
 <h3 align="center">Languages for Backend:</h3>
 <p align="center">
