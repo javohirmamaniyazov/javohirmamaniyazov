@@ -16,7 +16,7 @@
 <div align="center">
     <h3>Connect with me:</h3>
     <a href="https://discord.gg/javohir#2653" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord"                     height="30" width="40">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord"                     height="30" width="40">
     </a>
    <a href="https://linkedin.com/in/https://www.linkedin.com/in/javohir-mamaniyazov-a12669269/" target="_blank" rel="noopener noreferrer">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedn"                height="30" width="40" /></a>
