@@ -28,14 +28,16 @@
 
 <h3 align="center">Tools:</h3>
 <p align="center">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="40" width="40">
-   <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="AWS Amplify" height="40" width="40">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" height="40" width="40">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS Amplify" height="40" width="40">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" height="40" width="40">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Git" height="40" width="40">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Git" height="40" width="40">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="Git" height="40" width="40">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" alt="Git" height="40" width="40">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="Git" height="40" width="40">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" alt="Git" height="40" width="40">
+   
 </p>
 <h3 align="center">Languages for Backend:</h3>
 <p align="center">
