@@ -28,7 +28,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="40" width="40">
    <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="AWS Amplify" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" width="40">
