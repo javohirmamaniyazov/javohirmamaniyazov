@@ -19,7 +19,7 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord"                     height="30" width="40">
     </a>
    <a href="https://linkedin.com/in/https://www.linkedin.com/in/javohir-mamaniyazov-a12669269/" target="_blank" rel="noopener noreferrer">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedn"                height="30" width="40" /></a>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedn"                height="30" width="40" /></a>
    <a href="https://web.telegram.org/k/#@Javohir1706" target="_blank" rel="noopener noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="telegram" height="30"               width="30" /></a>
    <a href="mailto: javohirmamaniyazov@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -30,9 +30,12 @@
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="40" width="40">
    <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="AWS Amplify" height="40" width="40">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" width="40">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" height="40" width="40">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Git" height="40" width="40">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Git" height="40" width="40">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="Git" height="40" width="40">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" alt="Git" height="40" width="40">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="Git" height="40" width="40">
 </p>
 <h3 align="center">Languages for Backend:</h3>
 <p align="center">
@@ -47,8 +50,7 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40" width="40">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" width="40">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="40" width="40">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40">
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="React" height="40" width="40">
 </p>
 
 <div align="start" style="display: flex;">
