@@ -66,3 +66,7 @@
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
     </a>
 </div>
+
+<h2 align="center">Watch my contribution graph being eaten by a Snake! 🐍<h2/>
+
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/javohirmamaniyazov/javohirmamaniyazov/master/snake.svg)
