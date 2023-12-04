@@ -18,7 +18,7 @@
     <a href="https://discord.gg/javohir#2653" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord"                     height="30" width="40">
     </a>
-   <a href="https://linkedin.com/in/https://www.linkedin.com/in/javohir-mamaniyazov-a12669269/" target="_blank" rel="noopener noreferrer">
+   <a href="https://linkedin.com/in/javohir-mamaniyazov-a12669269/" target="_blank" rel="noopener noreferrer">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedn"                height="30" width="40" /></a>
    <a href="https://web.telegram.org/k/#@Javohir1706" target="_blank" rel="noopener noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" alt="telegram" height="30"               width="30" /></a>
